@@ -1,7 +1,6 @@
 # pokeball
 
-A new Flutter project.
-
+A Flutter app made with the simple widgets to show the stats about pokemons like image, name, powers, etc.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
