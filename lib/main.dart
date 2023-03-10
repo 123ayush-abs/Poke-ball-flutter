@@ -24,7 +24,7 @@ class _PokemonState extends State<Pokemon> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.grey[600],
+      backgroundColor: Colors.grey[500],
       appBar: AppBar(
         title: Text(
           "Poke-Ball",
